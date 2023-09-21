@@ -1,3 +1,8 @@
+
+![Screenshot 2023-09-21 015832](https://github.com/haolam05/React-Accordion/assets/71291057/7535f6b8-89fe-4206-b2a5-c1769f64f972)
+
+![Screenshot 2023-09-21 015824](https://github.com/haolam05/React-Accordion/assets/71291057/cfaa5c95-6055-470a-bff4-7df000f89cf7)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
